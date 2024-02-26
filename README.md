@@ -1,6 +1,6 @@
 # Titanic Machine Learning from Disaster
 
-!["Test"](Images\Titanic.png)
+!["Test"](Images/Titanic.png)
 
 Welcome to the Titanic -Machine Learning from Disaster! This project aims to analyze the Titanic dataset, a well-known dataset in the data science community, to predict whether a passenger survived the tragic sinking of the RMS Titanic in 1912. Our journey through this project will involve several key stages, from initial data exploration to the development and optimization of predictive models. This projects is perfect for beginners to become familiarized with the fundamental steps of a data science project. Let's embark on this analytical voyage together, uncovering insights and building a model to predict survival on the Titanic.
 
