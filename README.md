@@ -1,10 +1,12 @@
 # Titanic Machine Learning from Disaster
 
-Welcome to the Titanic -Machine Learning from Disaster! This project aims to analyze the Titanic dataset, a well-known dataset in the data science community, to predict whether a passenger survived the tragic sinking of the RMS Titanic in 1912. Our journey through this project will involve several key stages, from initial data exploration to the development and optimization of predictive models. Let's embark on this analytical voyage together, uncovering insights and building a model to predict survival on the Titanic.
+![](Images\Titanic.png)
+
+Welcome to the Titanic -Machine Learning from Disaster! This project aims to analyze the Titanic dataset, a well-known dataset in the data science community, to predict whether a passenger survived the tragic sinking of the RMS Titanic in 1912. Our journey through this project will involve several key stages, from initial data exploration to the development and optimization of predictive models. This projects is perfect for beginners to become familiarized with the fundamental steps of a data science project. Let's embark on this analytical voyage together, uncovering insights and building a model to predict survival on the Titanic.
 
 ## Survival Prediction
 
-At the heart of our project is the task of survival prediction. We aim to build a binary classification model that can accurately predict whether a passenger survived the Titanic disaster. This involves applying various machine learning techniques, including logistic regression, decision trees, random forests, support vector machines, and neural networks. By leveraging these models, we seek to understand the factors that influenced survival rates and to develop a predictive framework that can generalize well to unseen data.
+At the heart of our project is the task of survival prediction. We aim to build a binary classification model that can accurately predict whether a passenger survived the Titanic disaster. This involves applying various machine learning techniques, including logistic regression, decision trees, random forests, support vector machines, and boosted tree methods. By leveraging these models, we seek to understand the factors that influenced survival rates and to develop a predictive framework that can generalize well to unseen data.
 
 ## Exploratory Data Analysis (EDA)
 
@@ -23,6 +25,4 @@ The Titanic dataset is known for its missing values, especially in the age and c
 After building our predictive models, we will embark on a comprehensive comparison and evaluation phase. Using metrics like accuracy, precision, recall, F1 score, and ROC-AUC, we will assess the performance of each model. This evaluation will help us understand which models are most effective at predicting survival on the Titanic and why, enabling us to select the best model for our project goals.
 
 
----
 
-Join us on this exciting journey as we delve into the Titanic dataset, applying cutting-edge data science techniques to unravel the factors that determined survival on that fateful journey. Through diligent analysis, creative feature engineering, and rigorous model optimization, we aim to not only predict survival outcomes but also to contribute valuable insights into the field of data science. Let's set sail on this analytical adventure together!
